@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm harshita, I am a fullstack developer 
 
 <!--
 **harshitaa-p/harshitaa-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
