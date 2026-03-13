@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=harshitaa-p&height=150&fontSize=60&desc=Full%20Stack%20Developer%20%7C%&descSize=20&descAlignY=75&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
-<!-- 3D TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines;Building+Digital+Realities;Code+%2B+Creativity+%2B+Innovation;Transforming+Ideas+into+Reality" alt="3D Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+3D+Universe;Building+Digital+Realities;Code+%2B+Creativity+%2B+Innovation;Transforming+Ideas+into+Reality" alt="3D Typing Effect" />
 </div>
 
 <!-- 3D CONTRIBUTION CALENDAR - NIGHT RAINBOW -->
