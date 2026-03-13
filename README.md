@@ -1,6 +1,6 @@
 <!-- 3D HOLOGRAPHIC HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=harshitaa-p&height=150&fontSize=60&desc=Full%20Stack%20Developer%20%7C%203D%20Enthusiast&descSize=20&descAlignY=75&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=harshitaa-p&height=150&fontSize=60&desc=Full%20Stack%20Developer%20%7C%&descSize=20&descAlignY=75&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <!-- 3D TYPING EFFECT -->
