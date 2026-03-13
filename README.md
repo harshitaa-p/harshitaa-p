@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Harshita
 
-🚀 Angular Developer | Full Stack Developer
-💻 Building cool products and dashboards
+Angular Developer | Full Stack Developer
+Building cool products and dashboards
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,mongodb,html,css,git,github,vscode" />
@@ -13,21 +13,21 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitaa-p\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaa-p\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 📈 Activity Graph
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitaa-p\&theme=tokyo-night)
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -39,7 +39,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### Personal Life Dashboard
 
@@ -55,7 +55,7 @@ Real-time dashboard with OEE analytics and production metrics.
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 LinkedIn
 Portfolio
