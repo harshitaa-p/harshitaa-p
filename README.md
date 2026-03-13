@@ -1,13 +1,8 @@
 <div align="center">
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harhita;Full-Stack+Developer;" alt="Typing SVG" />
-  
-  <!-- 3D Contribution Graph -->
-  <img src="./profile-3d-contrib/profile-night-rainbow-animate.svg" width="100%" alt="3D Contribution Graph"/>
-  
-  <!-- Profile Views Counter with 3D effect -->
-  <img src="https://komarev.com/ghpvc/?username=harshitaa-p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+    
+  </div>
 
 ---
 
