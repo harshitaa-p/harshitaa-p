@@ -1,122 +1,51 @@
-<!-- Banner -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Harshita%20Pujari&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<!-- Typing animation -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Angular+Developer;Full+Stack+Developer;Building+Cool+Dashboards;Always+Learning+New+Tech"/>
-</p>
-
----
-
-# 👋 About Me
-
-Hi! I'm **Harshita**, a developer who loves building modern applications and dashboards.
-
-💻 I work with **Angular, TypeScript, APIs, and databases**
-🚀 I enjoy building **production-level apps and analytics dashboards**
-🌱 Currently exploring **scalable architectures and better UI systems**
+<div align="center">
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YourName;Full-Stack+Developer;3D+Animation+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <!-- 3D Contribution Graph -->
+  <img src="./profile-3d-contrib/profile-night-rainbow-animate.svg" width="100%" alt="3D Contribution Graph"/>
+  
+  <!-- Profile Views Counter with 3D effect -->
+  <img src="https://komarev.com/ghpvc/?username=harshitaa-p&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-# ⚡ Tech Stack
+## 🌟 3D Contribution Calendar
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,nodejs,mongodb,html,css,git,github,vscode"/>
-</p>
+<div align="center">
+  <!-- Night Rainbow Version -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Night Rainbow"/>
+  
+  <!-- Season Version -->
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Season"/>
+</div>
 
----
+## 📊 GitHub Stats in 3D Style
 
-# 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaa-p&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaa-p&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-<p align="center">
+## 🔥 Streak Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitaa-p&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaa-p&theme=radical&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaa-p&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🏆 GitHub Trophies
 
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitaa-p&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
----
+## 🐍 Contribution Snake Animation
 
-# 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaa-p&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshitaa-p&theme=tokyonight&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Personal Life Dashboard
-
-A productivity dashboard with:
-
-• Habit tracking
-• Mood analytics
-• Journaling
-• Weekly life insights
-
-Tech: Angular, Charts, APIs
-
----
-
-## 🏭 Manufacturing Analytics Dashboard
-
-A real-time production analytics system including:
-
-• OEE calculations
-• Revenue loss tracking
-• Machine status monitoring
-• Interactive analytics charts
-
-Tech: Angular + backend APIs
-
----
-
-## 🧾 Vendor Management System
-
-Vendor tracking platform with:
-
-• Vendor contacts
-• Reminders and notes
-• Timeline events
-• Status updates
-
-Tech: Angular + backend services
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn
-📧 Email
-🌐 Portfolio (coming soon)
-
----
-
-# 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=harshitaa-p&label=Profile%20views&color=blueviolet&style=flat"/>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitaa-p/harshitaa-p/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitaa-p/harshitaa-p/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitaa-p/harshitaa-p/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
