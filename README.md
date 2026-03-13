@@ -5,7 +5,7 @@
 
 <!-- 3D TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+3D+Universe;Building+Digital+Realities;Code+%2B+Creativity+%2B+Innovation;Transforming+Ideas+into+Reality" alt="3D Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines;Building+Digital+Realities;Code+%2B+Creativity+%2B+Innovation;Transforming+Ideas+into+Reality" alt="3D Typing Effect" />
 </div>
 
 <!-- 3D CONTRIBUTION CALENDAR - NIGHT RAINBOW -->
@@ -17,12 +17,12 @@
 <!-- 3D ISOMETRIC CITY -->
 <div align="center">
   <h2>🏙️ 3D Contribution Metropolis</h2>
-  <img src="./contribution-city.svg" width="100%" alt="3D Isometric City"/>
+  <img src="./contribution-city.svg" width="100%" alt="Isometric City"/>
 </div>
 
 <!-- 3D SNAKE ANIMATION -->
 <div align="center">
-  <h2>🐍 3D Contribution Snake</h2>
+  <h2>Contribution Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitaa-p/harshitaa-p/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitaa-p/harshitaa-p/output/github-snake.svg">
@@ -32,7 +32,7 @@
 
 <!-- 3D STATS CARDS -->
 <div align="center">
-  <h2>📊 3D Holographic Stats</h2>
+  <h2>Holographic Stats</h2>
   <table>
     <tr>
       <td>
@@ -52,13 +52,13 @@
 
 <!-- 3D ISOMETRIC CALENDAR -->
 <div align="center">
-  <h2>📅 3D Isometric Calendar</h2>
+  <h2>Isometric Calendar</h2>
   <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="3D Calendar" width="80%"/>
 </div>
 
 <!-- 3D TROPHIES -->
 <div align="center">
-  <h2>🏆 3D Achievement Gallery</h2>
+  <h2>Achievement Gallery</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=harshitaa-p&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="3D Trophies" width="100%"/>
 </div>
 
@@ -70,7 +70,7 @@
 
 <!-- 3D TECH STACK -->
 <div align="center">
-  <h2>🛠️ 3D Tech Arsenal</h2>
+  <h2>Tech Arsenal</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=000000" alt="JS"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC&color=000000" alt="TS"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=000000" alt="React"/>
